@@ -1,0 +1,1 @@
+Facilitates CharmBar updates
