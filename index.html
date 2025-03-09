@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic HTML Page</title>
+    <title>CharmBar Update Available</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -19,19 +19,31 @@
         p {
             margin-bottom: 16px;
         }
+        .update-notification {
+            background-color: #e6f7ff;
+            border-left: 4px solid #1890ff;
+            padding: 16px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #1890ff;
+            color: white;
+            padding: 10px 16px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background-color: #0c7cd5;
+        }
     </style>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>This is a very basic HTML file that you can use as a starting point for your project.</p>
-    <p>Feel free to modify this template to suit your needs.</p>
-    
-    <h2>Basic HTML Elements</h2>
-    <ul>
-        <li>Headings (h1, h2, etc.)</li>
-        <li>Paragraphs (p)</li>
-        <li>Lists (ul, ol, li)</li>
-        <li>Links (<a href="#">example link</a>)</li>
-    </ul>
+    <div class="update-notification">
+        <h2>New CharmBar Update Available!</h2>
+        <p>A new version of Charmbar has been released with exciting new features and improvements.</p>
+    </div>
 </body>
 </html>
