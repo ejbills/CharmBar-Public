@@ -3,13 +3,13 @@
     <channel>
         <title>CharmBar</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Sun, 16 Mar 2025 19:27:32 -0700</pubDate>
+            <title>1.1.1</title>
+            <pubDate>Sun, 16 Mar 2025 19:52:09 -0700</pubDate>
             <sparkle:releaseNotesLink>https://changelog.charmbar.org</sparkle:releaseNotesLink>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ejbills/CharmBar-Public/releases/latest/download/CharmBar.dmg" length="4968309" type="application/octet-stream" sparkle:edSignature="jnhnq17D/y4AR4MqCpFCpBBaWLDdpMvFXXDDrvLpqa2FDU5E+sOWwbp2cm9QQ/591gqd6YpmJRsk6oPwkLWlAw=="/>
+            <enclosure url="https://github.com/ejbills/CharmBar-Public/releases/latest/download/CharmBar.dmg" length="4970957" type="application/octet-stream" sparkle:edSignature="ufX4/Kqiw5saE7XSEMciQmA/esTupMkk22Flmq6czWPWtuqnJthmqjOvuua1jhmZd49GcD6DswCVYsMaqOuSAA=="/>
         </item>
     </channel>
 </rss>
